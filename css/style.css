@@ -6,10 +6,18 @@ color: #222;
 
 }
 
+#cabezera{
+
+    background-color: brown;
+    box-shadow: cadetblue;
+
+    font-size:22px;
+}
+
 #container {
 
     text-align: center;
-    border: 15px solid;
+    border: 3px solid;
     border-color: blue;
     background-color: chocolate;
 }
