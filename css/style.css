@@ -1,0 +1,15 @@
+body{
+
+text-align: left;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: #222;
+
+}
+
+#container {
+
+    text-align: center;
+    border: 15px solid;
+    border-color: blue;
+
+}
